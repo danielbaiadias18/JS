@@ -1,0 +1,69 @@
+                body {
+        		margin: 0;
+        		padding: 0;
+        		background-color: black;
+        	}
+
+        	#pag {
+        		margin-top: 0;
+        		margin: 0;
+        	}
+
+        	#vermelho{
+        		width: 205px;
+        		height: 180px;
+        		float: left;
+        		background-color: red;       		
+        	}
+
+                #azul{
+                        width: 205px;
+                        height: 180px;
+                        float: left;
+                        background-color: blue;
+                }
+
+        	#verde{
+        		width: 206px;
+        		height: 180px;
+        		float: left;
+                        background-color: #00ff00;
+        	}
+
+        	#amarelo{
+        		width: 206px;
+        		height: 180px;
+        		float: left;
+        		background-color: yellow;
+        	}
+
+                #branco{
+                        width: 206px;
+                        height: 180px;
+                        float: left;
+                        background-color: white;
+                }
+
+                #preto{
+                        width: 206px;
+                        height: 180px;
+                        float: left;
+                        background-color: black;
+                }
+
+                #roxo{
+                        width: 206px;
+                        height: 180px;
+                        float: left;
+                        background-color: purple;
+                }
+
+                h1{
+                        width: 1440px;
+                        background-color: #00ffff;
+                }
+
+                img{
+                        align-items: center;
+                        /* background-color: #00ffff; */
+                }
